@@ -1,3 +1,3 @@
 # handas-laptop
 
-Simple landing page in HTML and CSS
+Simple landing page in HTML5 and CSS3
