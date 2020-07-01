@@ -73,9 +73,9 @@
   
   }
   .cta-size{
-      border: 2px solid #763be1;
+      border: 2px solid #01abb2;
       background: transparent ;
-      color: #763be1;
+      color: #01abb2;
       width: 150px;   
       height: 50px;
       cursor: pointer; 
@@ -89,7 +89,7 @@
   }
  
   .cta-cart{
-      background:#763be1 ;
+      background:#01abb2 ;
       width: 150px;   
       height: 50px;
       cursor: pointer; 
@@ -101,12 +101,13 @@
       
   }
   .cta-cart:hover{
-      background-color:#a2d441 ;
+      background-color:#d92e01 ;
       color:#FFFFFF;
   }
   .cta-size:hover{
-    background-color:#a2d441 ;
+    background-color:#d92e01 ;
     color:#FFFFFF;
+     border: 2px solid #d92e01;
 }
   .cover {
     flex: 0.5;
@@ -147,7 +148,7 @@
     display: flex;
     justify-content: space-around;
     position: absolute;
-    right:22%;
+    right:12%;
   }
 
   @keyframes drop{
@@ -160,4 +161,3 @@
     transform: translateY(0px);
    }
   }
-
